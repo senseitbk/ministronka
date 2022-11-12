@@ -17,8 +17,8 @@ Jest nam niezmiernie miło, że będziecie nam towarzyszyć w naszych zaślubina
 
 ### Dodatkowe informacje:
 1. Sala ślubów posiada ogólnodostępną toaletę
-2. Parkowanie pod Urzędem Stanu Cywilnego - [strefa C](https://www.krakow.pl/komunikacja/9177,artykul,mapa_strefy_platnego_parkowania.html) - sugerowana płatność - [SkyCash](https://www.skycash.com/) (łatwiej przedłużyć w przypadku gdyby coś się przeciągło, zamiast biegać i szukać parkometru i samochodu)
-3. Parkowanie pod restauracją - ogólnodostępny parking osiedlowy, lub pobliska biedronka (obecnie nadal bez parkomatu)
+1. Parkowanie pod Urzędem Stanu Cywilnego - [strefa C](https://www.krakow.pl/komunikacja/9177,artykul,mapa_strefy_platnego_parkowania.html), sugerowana płatność - [SkyCash](https://www.skycash.com/) (łatwiej przedłużyć w przypadku gdyby coś się przeciągło, zamiast biegać i szukać parkometru i samochodu)
+1. Parkowanie pod restauracją - ogólnodostępny parking osiedlowy, lub pobliska biedronka (obecnie nadal bez parkomatu)
 
 </br>
 
@@ -32,3 +32,10 @@ Jest nam niezmiernie miło, że będziecie nam towarzyszyć w naszych zaślubina
 
 </br>
 P.S. Jako że nasze obecne mieszkanie jest bardzo skromne, prosimy o nie przynoszenie prezentów, kwiatów czy wina - choć to miłe podarki, po prostu nie mamy gdzie tego przechować (albo kwiaty albo blat do pracy :) )
+
+</br>
+
+[Mapa poglądowa](https://en.mapy.cz/s/ledulodeba)
+
+<iframe style="border:none" src="https://en.frame.mapy.cz/s/facafububa" width="400" height="280" frameborder="0"></iframe>
+
