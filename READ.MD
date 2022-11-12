@@ -31,4 +31,4 @@ Jest nam niezmiernie miło, że będziecie nam towarzyszyć w naszych zaślubina
 |Biedronka na Żabincu|Żabiniec 93|[Biedronka Żabiniec na mapach google](https://www.google.pl/maps/place/Biedronka/@50.080843,19.9435323,997m/data=!3m1!1e3!4m5!3m4!1s0x47165afbf6c498ff:0xcd9205d692dfdcf5!8m2!3d50.0822222!4d19.9458333)|[Biedronka Żabiniec na mapach apple](https://maps.apple.com/?address=%C5%BBabiniec%2093,%2031-215%20Krak%C3%B3w,%20Polska&auid=100739396603680731&ll=50.082233,19.945550&lsp=9902&q=Biedronka&t=m)|
 
 </br>
-#### P.S. Jako że nasze obecne mieszkanie jest bardzo skromne, prosimy o nie przynoszenie prezentów, kwiatów czy wina - choć to miłe podarki, po prostu nie mamy gdzie tego przechować (albo kwiaty albo blat do pracy :) )
+### P.S. Jako że nasze obecne mieszkanie jest bardzo skromne, prosimy o nie przynoszenie prezentów, kwiatów czy wina - choć to miłe podarki, po prostu nie mamy gdzie tego przechować (albo kwiaty albo blat do pracy :) )
